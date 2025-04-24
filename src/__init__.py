@@ -2,7 +2,7 @@
 DB_HOST=localhost
 DB_NAME=vegetable_prices
 DB_USER=youruser
-DB_PASSWORD=yourpassword
+DB_PASSWORD=Root1337
 DB_PORT=5432
 
 # API Keys
