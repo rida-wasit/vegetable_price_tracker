@@ -1,5 +1,5 @@
 # Database
-DB_HOST=localhost
+DB_HOST=localhost1
 DB_NAME=vegetable_prices
 DB_USER=youruser
 DB_PASSWORD=Root1337
