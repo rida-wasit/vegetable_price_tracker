@@ -12,9 +12,9 @@ A real-time market price monitoring system for agricultural products, with Arabi
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Database Setup](#database-setup)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
+- [Database Setup](#database-setup) (Soon !!)
+- [Contribution Guidelines](#contribution-guidelines) (Soon !!)
+- [License](#license) (Soon !!)
 
 ## Installation
 
