@@ -25,7 +25,7 @@ A real-time market price monitoring system for agricultural products, with Arabi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourrepo/vegetable-price-tracker.git
+git clone https://github.com/rida-wasit/vegetable_price_tracker.git
 cd vegetable-price-tracker
 
 # Create virtual environment (Linux/macOS)
