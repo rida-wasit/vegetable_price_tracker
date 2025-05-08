@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "feature/market-data-integration" ]
   pull_request:
-    branches: [ "feature/market-data-integration" ]
+    branches: [ "feature/morocco-data-integration" ]
 
 jobs:
   build:
