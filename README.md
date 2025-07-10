@@ -12,15 +12,15 @@ A real-time market price monitoring system for agricultural products, with Arabi
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Database Setup](#database-setup) (Soon !!)
-- [Contribution Guidelines](#contribution-guidelines) (Soon !!)
-- [License](#license) (Soon !!)
+- [Database Setup](#database-setup) 
+- [Contribution Guidelines](#contribution-guidelines)
+- [License](#license) 
 
 ## Installation
 
 ### Prerequisites
-- Python 3.9+
-- PostgreSQL 14+
+- Python 3.12+
+- PostgreSQL 17+
 - Redis (for caching, optional)
 
 ```bash
